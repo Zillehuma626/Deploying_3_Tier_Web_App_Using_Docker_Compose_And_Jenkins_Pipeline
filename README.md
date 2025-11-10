@@ -1,6 +1,6 @@
 # E-Commerce Website (MERN Stack)
 
-## Description
+## Descriptiondsafa
 This project is a fully functional e-commerce website built using the MERN (MongoDB, Express, React, Node.js) stack. It features user authentication, product management, a shopping cart, order placement, and payment gateway integration. The admin dashboard allows for efficient store management, including order tracking and product uploads.
 
 ## Features
